@@ -1,18 +1,16 @@
 🤖 AI Desktop Voice Assistant – JARVIS
-PBEL 2.0 Main Project Presentation
-🟦 Slide 1 — Title Slide
+
+
 
 Project Title:
 🤖 AI-Based Desktop Voice Assistant (JARVIS)
 
 Developed By:
-Your Name
+ankita patel
 
 Technology Used:
 Python | AI | Speech Recognition
 
-Submitted To:
-Faculty Name / Department
 
 🟦 Slide 2 — Introduction
 
@@ -33,6 +31,7 @@ Multiple clicks
 Time-consuming operations
 
 There is a need for:
+
 ✅ Smart automation
 ✅ Hands-free computer control
 ✅ Intelligent digital assistant
